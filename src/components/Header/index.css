@@ -1,0 +1,40 @@
+.navbar-container {
+  background-color: #202020;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.website-logo {
+  width: 150px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 100px;
+}
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin-right: 125px;
+}
+.nav-item {
+  font-family: 'Roboto';
+  margin: 10px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.logout-button {
+  background-color: #4f46e5;
+  padding: 10px;
+  border-radius: 6px;
+  color: #fff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  border: none;
+  margin-right: 55px;
+  width: 110px;
+}
+.nav-link {
+  text-decoration: none;
+  color: #ffffff;
+}
